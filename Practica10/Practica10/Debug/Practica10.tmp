@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\Debug\Practica10.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica10.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica10.map</FILE>
+  <FILE>Practica10.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>46</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>432</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>434</LINE></EXT_INT1>
+  <TIM2_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>436</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>438</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>440</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>442</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>444</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>446</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>448</LINE></TIM0_OVF>
+  <SPI_STC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>450</LINE></SPI_STC>
+  <USART_RXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>452</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>454</LINE></USART_UDRE>
+  <USART_TXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>456</LINE></USART_TXC>
+  <ADC_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>458</LINE></ADC_COMP>
+  <EE_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>460</LINE></EE_RDY>
+  <ANA_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>462</LINE></ANA_COMP>
+  <TWSI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>464</LINE></TWSI>
+  <EXT_INT2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>466</LINE></EXT_INT2>
+  <TIM0_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>468</LINE></TIM0_COMP>
+  <SPM_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>470</LINE></SPM_RDY>
+  <SONG_CALL><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>68</LINE></SONG_CALL>
+  <PART1_LOOP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>255</LINE></PART1_LOOP>
+  <RETARDO_Negra><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>336</LINE></RETARDO_Negra>
+  <RETARDO_Corchea><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>380</LINE></RETARDO_Corchea>
+  <RETARDO_Blanca><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>359</LINE></RETARDO_Blanca>
+  <TRABA_SONG><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>252</LINE></TRABA_SONG>
+  <WGLOOP0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>343</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>344</LINE></WGLOOP1>
+  <WGLOOP2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>345</LINE></WGLOOP2>
+  <WGLOOP3><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>354</LINE></WGLOOP3>
+  <WGLOOP0_B><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>366</LINE></WGLOOP0_B>
+  <WGLOOP1_B><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>367</LINE></WGLOOP1_B>
+  <WGLOOP2_B><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>368</LINE></WGLOOP2_B>
+  <WGLOOP0_c><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>387</LINE></WGLOOP0_c>
+  <WGLOOP1_c><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>388</LINE></WGLOOP1_c>
+  <WGLOOP2_c><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>395</LINE></WGLOOP2_c>
+  <RETARDO_50m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>404</LINE></RETARDO_50m>
+  <WGLOOP0_50><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>411</LINE></WGLOOP0_50>
+  <WGLOOP1_50><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>412</LINE></WGLOOP1_50>
+  <WGLOOP2_50><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica10\Practica10\main.asm</FILE><LINE>419</LINE></WGLOOP2_50>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\Debug\Practica6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica6.map</FILE>
+  <FILE>Practica6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>46</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>164</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>166</LINE></EXT_INT1>
+  <TIM2_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>168</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>170</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>172</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>174</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>176</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>178</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>180</LINE></TIM0_OVF>
+  <SPI_STC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>182</LINE></SPI_STC>
+  <USART_RXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>184</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>186</LINE></USART_UDRE>
+  <USART_TXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>188</LINE></USART_TXC>
+  <ADC_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>190</LINE></ADC_COMP>
+  <EE_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>192</LINE></EE_RDY>
+  <ANA_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>194</LINE></ANA_COMP>
+  <TWSI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>196</LINE></TWSI>
+  <EXT_INT2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>198</LINE></EXT_INT2>
+  <TIM0_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>200</LINE></TIM0_COMP>
+  <SPM_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>202</LINE></SPM_RDY>
+  <READ><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>67</LINE></READ>
+  <BUTTON0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>74</LINE></BUTTON0>
+  <BUTTON1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>102</LINE></BUTTON1>
+  <R_CLOCKWISE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>76</LINE></R_CLOCKWISE>
+  <RESET0_R16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>86</LINE></RESET0_R16>
+  <RETARDO_10m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>118</LINE></RETARDO_10m>
+  <RESET1_R16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>90</LINE></RESET1_R16>
+  <RESET_SHOW1_R16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>94</LINE></RESET_SHOW1_R16>
+  <R_NOT_CLOCKWISE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>104</LINE></R_NOT_CLOCKWISE>
+  <WGLOOP0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>125</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>126</LINE></WGLOOP1>
+  <RETARDO_50m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>136</LINE></RETARDO_50m>
+  <WGLOOP0_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>143</LINE></WGLOOP0_1>
+  <WGLOOP1_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>144</LINE></WGLOOP1_1>
+  <WGLOOP2_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica6\Practica6\main.asm</FILE><LINE>151</LINE></WGLOOP2_1>
+ </LABELS>
+</ASSEMBLER_INFO>
