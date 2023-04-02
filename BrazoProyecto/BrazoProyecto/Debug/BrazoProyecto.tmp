@@ -1,0 +1,81 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\Debug\BrazoProyecto.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>BrazoProyecto.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>BrazoProyecto.map</FILE>
+  <FILE>BrazoProyecto.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>46</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>358</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>360</LINE></EXT_INT1>
+  <TIM2_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>362</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>364</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>366</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>368</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>370</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>372</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>374</LINE></TIM0_OVF>
+  <SPI_STC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>376</LINE></SPI_STC>
+  <USART_RXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>378</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>380</LINE></USART_UDRE>
+  <USART_TXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>382</LINE></USART_TXC>
+  <ADC_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>384</LINE></ADC_COMP>
+  <EE_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>386</LINE></EE_RDY>
+  <ANA_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>388</LINE></ANA_COMP>
+  <TWSI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>390</LINE></TWSI>
+  <EXT_INT2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>392</LINE></EXT_INT2>
+  <TIM0_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>394</LINE></TIM0_COMP>
+  <SPM_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>396</LINE></SPM_RDY>
+  <Main><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>75</LINE></Main>
+  <Make_Movement><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>116</LINE></Make_Movement>
+  <RETARDO_200m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>105</LINE></RETARDO_200m>
+  <RETARDO_50m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>330</LINE></RETARDO_50m>
+  <STOP_EVER><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>112</LINE></STOP_EVER>
+  <Rotate_Down_Brazo><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>291</LINE></Rotate_Down_Brazo>
+  <Close_Pinza><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>195</LINE></Close_Pinza>
+  <Rotate_Up_Brazo><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>268</LINE></Rotate_Up_Brazo>
+  <White_Ball><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>170</LINE></White_Ball>
+  <Black_Ball><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>176</LINE></Black_Ball>
+  <Make_Movement_OUT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>147</LINE></Make_Movement_OUT>
+  <Open_Pinza><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>207</LINE></Open_Pinza>
+  <Was_White_Ball><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>183</LINE></Was_White_Ball>
+  <Was_Black_Ball><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>188</LINE></Was_Black_Ball>
+  <Make_Movement_EXIT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>162</LINE></Make_Movement_EXIT>
+  <Traba_Button><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>164</LINE></Traba_Button>
+  <Rotate_Left_Eje><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>250</LINE></Rotate_Left_Eje>
+  <Rotate_Right_Eje><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>223</LINE></Rotate_Right_Eje>
+  <MAX_ROTS><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>237</LINE></MAX_ROTS>
+  <RETARDO_5m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>311</LINE></RETARDO_5m>
+  <RESET_Right_R16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>242</LINE></RESET_Right_R16>
+  <Rotate_Right_Eje_EXIT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>232</LINE></Rotate_Right_Eje_EXIT>
+  <RESET_Left_R16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>246</LINE></RESET_Left_R16>
+  <Rotate_Left_Eje_EXIT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>261</LINE></Rotate_Left_Eje_EXIT>
+  <RESET_Up_R17><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>283</LINE></RESET_Up_R17>
+  <Rotate_Up_Brazo_EXIT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>277</LINE></Rotate_Up_Brazo_EXIT>
+  <RESET_Down_R17><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>287</LINE></RESET_Down_R17>
+  <Rotate_Down_Brazo_EXIT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>302</LINE></Rotate_Down_Brazo_EXIT>
+  <WGLOOP0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>318</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>319</LINE></WGLOOP1>
+  <WGLOOP0_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>337</LINE></WGLOOP0_1>
+  <WGLOOP1_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>338</LINE></WGLOOP1_1>
+  <WGLOOP2_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\BrazoProyecto\BrazoProyecto\main.asm</FILE><LINE>345</LINE></WGLOOP2_1>
+ </LABELS>
+</ASSEMBLER_INFO>
