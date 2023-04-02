@@ -1,0 +1,96 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\Debug\Practica15_LCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica15_LCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica15_LCD.map</FILE>
+  <FILE>Practica15_LCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>39</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>201</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>208</LINE></EXT_INT1>
+  <TIM2_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>215</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>222</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>229</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>236</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>243</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>250</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>257</LINE></TIM0_OVF>
+  <SPI_STC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>264</LINE></SPI_STC>
+  <USART_RXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>271</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>278</LINE></USART_UDRE>
+  <USART_TXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>285</LINE></USART_TXC>
+  <ADC_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>292</LINE></ADC_COMP>
+  <EE_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>299</LINE></EE_RDY>
+  <ANA_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>306</LINE></ANA_COMP>
+  <TWSI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>313</LINE></TWSI>
+  <EXT_INT2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>320</LINE></EXT_INT2>
+  <TIM0_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>327</LINE></TIM0_COMP>
+  <SPM_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>336</LINE></SPM_RDY>
+  <INI_LCD><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>374</LINE></INI_LCD>
+  <ESCRIBE_inicio><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>96</LINE></ESCRIBE_inicio>
+  <MAIN><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>66</LINE></MAIN>
+  <Button_pressed><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>71</LINE></Button_pressed>
+  <WR_INS><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>427</LINE></WR_INS>
+  <ESCRIBE_msj_primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>113</LINE></ESCRIBE_msj_primes>
+  <ESCRIBE_Primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>137</LINE></ESCRIBE_Primes>
+  <ESCRIBE_msj_fin><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>158</LINE></ESCRIBE_msj_fin>
+  <delay1s><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>558</LINE></delay1s>
+  <RETARDO_50m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>176</LINE></RETARDO_50m>
+  <TRABA_1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>90</LINE></TRABA_1>
+  <MSJ_inicio><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>586</LINE></MSJ_inicio>
+  <EXIT_ESCRIBE_inicio><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>108</LINE></EXIT_ESCRIBE_inicio>
+  <WR_DAT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>432</LINE></WR_DAT>
+  <MSJ_primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>589</LINE></MSJ_primes>
+  <Exit_ESCRIBE_msj_primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>125</LINE></Exit_ESCRIBE_msj_primes>
+  <Delay_prime><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>130</LINE></Delay_prime>
+  <Cont_ESCRIBE_Primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>149</LINE></Cont_ESCRIBE_Primes>
+  <Primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>595</LINE></Primes>
+  <Exit_ESCRIBE_Primes><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>153</LINE></Exit_ESCRIBE_Primes>
+  <MSJ_fin><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>592</LINE></MSJ_fin>
+  <Exit_ESCRIBE_msj_fin><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>170</LINE></Exit_ESCRIBE_msj_fin>
+  <WGLOOP0_0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>183</LINE></WGLOOP0_0>
+  <WGLOOP1_0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>184</LINE></WGLOOP1_0>
+  <WGLOOP2_0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>185</LINE></WGLOOP2_0>
+  <DECLARA_PUERTOS><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>451</LINE></DECLARA_PUERTOS>
+  <T0_15m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>477</LINE></T0_15m>
+  <WR_INS_INI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>442</LINE></WR_INS_INI>
+  <T0_4m1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>535</LINE></T0_4m1>
+  <T0_100u><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>516</LINE></T0_100u>
+  <CHK_FLG><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>457</LINE></CHK_FLG>
+  <T0_10m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>497</LINE></T0_10m>
+  <RBF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>462</LINE></RBF>
+  <CONTINUA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>469</LINE></CONTINUA>
+  <WGLOOP0a><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>484</LINE></WGLOOP0a>
+  <WGLOOP1a><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>485</LINE></WGLOOP1a>
+  <WGLOOP2a><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>492</LINE></WGLOOP2a>
+  <WGLOOP0b><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>504</LINE></WGLOOP0b>
+  <WGLOOP1b><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>505</LINE></WGLOOP1b>
+  <WGLOOP0c><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>523</LINE></WGLOOP0c>
+  <WGLOOP1c><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>524</LINE></WGLOOP1c>
+  <WGLOOP0d><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>542</LINE></WGLOOP0d>
+  <WGLOOP1d><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>543</LINE></WGLOOP1d>
+  <WGLOOP2d><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>550</LINE></WGLOOP2d>
+  <WGLOOP0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>565</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>566</LINE></WGLOOP1>
+  <WGLOOP2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>567</LINE></WGLOOP2>
+  <WGLOOP3><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica15_LCD\Practica15_LCD\main.asm</FILE><LINE>576</LINE></WGLOOP3>
+ </LABELS>
+</ASSEMBLER_INFO>

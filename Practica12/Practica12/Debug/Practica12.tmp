@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\Debug\Practica12.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica12.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica12.map</FILE>
+  <FILE>Practica12.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>46</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>169</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>171</LINE></EXT_INT1>
+  <TIM2_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>173</LINE></TIM2_COMP>
+  <TIM2_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>175</LINE></TIM2_OVF>
+  <TIM1_CAPT><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>177</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>179</LINE></TIM1_COMPA>
+  <TIM1_COMPB><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>181</LINE></TIM1_COMPB>
+  <TIM1_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>183</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>185</LINE></TIM0_OVF>
+  <SPI_STC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>187</LINE></SPI_STC>
+  <USART_RXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>189</LINE></USART_RXC>
+  <USART_UDRE><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>191</LINE></USART_UDRE>
+  <USART_TXC><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>193</LINE></USART_TXC>
+  <ADC_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>195</LINE></ADC_COMP>
+  <EE_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>197</LINE></EE_RDY>
+  <ANA_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>199</LINE></ANA_COMP>
+  <TWSI><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>201</LINE></TWSI>
+  <EXT_INT2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>203</LINE></EXT_INT2>
+  <TIM0_COMP><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>205</LINE></TIM0_COMP>
+  <SPM_RDY><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>207</LINE></SPM_RDY>
+  <Increase_OCR><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>112</LINE></Increase_OCR>
+  <MAIN_Code><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>80</LINE></MAIN_Code>
+  <Decrease_OCR><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>87</LINE></Decrease_OCR>
+  <Dec_r16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>103</LINE></Dec_r16>
+  <Step_2_Dec><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>90</LINE></Step_2_Dec>
+  <Min_r16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>108</LINE></Min_r16>
+  <END_Decrease><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>93</LINE></END_Decrease>
+  <RETARDO_50m><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>140</LINE></RETARDO_50m>
+  <TRABA_Dec><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>97</LINE></TRABA_Dec>
+  <Inc_r16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>128</LINE></Inc_r16>
+  <Step_2_Inc><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>115</LINE></Step_2_Inc>
+  <Max_r16><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>134</LINE></Max_r16>
+  <END_Increase><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>118</LINE></END_Increase>
+  <TRABA_Inc><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>122</LINE></TRABA_Inc>
+  <WGLOOP0><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>147</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>148</LINE></WGLOOP1>
+  <WGLOOP2><FILE>C:\Users\Arturo\Documents\School Stuff\Microcontroladores\Practicas\Practica12\Practica12\main.asm</FILE><LINE>155</LINE></WGLOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>
